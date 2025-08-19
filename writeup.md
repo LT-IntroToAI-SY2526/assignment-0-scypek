@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Joseph Nowak
+**Date:** 8/19/2025
 
 ---
 
@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a command and Github is a platform for collab which git interacts with.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commiting and pushing adds changes to a git hub repository. You must commit the changes, and then you must push them to the repo.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is a place where all the project work is put in, its a place to store files in github.
 
 ---
 
@@ -26,15 +26,14 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
-
+[https://github.com/scypek]
 ---
 
 ## Looking Ahead
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+Learning more about the coding aspect of coding up a AI. I have a basic understanding of AI already but being able to code it up and understanding the functions is nice.
 
 ---
 
