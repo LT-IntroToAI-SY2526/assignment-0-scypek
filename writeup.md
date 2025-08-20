@@ -26,14 +26,14 @@ A repository is a place where all the project work is put in, its a place to sto
 
 **Link to your GitHub profile repository:** 
 
-[https://github.com/scypek]
+[https://github.com/scypek/scypek]
 ---
 
 ## Looking Ahead
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-Learning more about the coding aspect of coding up a AI. I have a basic understanding of AI already but being able to code it up and understanding the functions is nice.
+Learning more about the coding aspect of coding up a AI. I have a basic understanding of AI already but being able to code it up easier and understanding the functions is nice.
 
 ---
 
